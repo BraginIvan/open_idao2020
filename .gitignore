@@ -1,0 +1,5 @@
+predicts
+*.csv
+venv
+.idea
+__pycache__
